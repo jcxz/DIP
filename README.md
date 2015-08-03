@@ -20,7 +20,7 @@ simulation using OpenCL and OpenGL.
 
       - `-particle-count <number-of-particles>`
            determines the number of particles that will be used for simulation in mode 1.
-           `<number-of-particles>` is an integer representing the number of particles
+           `<number-of-particles>` is an integer representing the number of particles.
 
       - `-grid-size <dimensions>`
            determines dimensions of the uniform grid that is used for neighbour search acceleration.
@@ -34,7 +34,7 @@ simulation using OpenCL and OpenGL.
       - `-benchmark`
            when specified, this option runs the program in command line mode and
            performs a comprehesive suite of stress tests to evaluate its performance
-           for a variety of uniform grid and particle count settings.  
+           for a variety of uniform grid and particle count settings.
            Beware that this option will make the program run for quite a while and
            may significantly load your system.
 
@@ -42,7 +42,7 @@ simulation using OpenCL and OpenGL.
            this is a smaller set of stress tests, that will run several iterations
            of the main program loop and print simple statistics on the time spent
            simulating and rendering the fluid for given particle count and grid size
-           settings.  
+           settings.
            This option also makes the program run without creating a window.
 
 # Features
