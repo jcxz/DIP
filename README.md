@@ -5,11 +5,9 @@ simulation using OpenCL and OpenGL.
 
 # Dependancies
 
-Program depends on:
-
-  - **OpenCL** to provide GPU acceleration for simulation part of the program
-  - **OpenGL** for visualising simulation output
-  - **Qt** to provide rendering surface and other goodies (like resources embedded
+  - **OpenCL 1.2** to provide GPU acceleration for simulation part of the program
+  - **OpenGL 3.3** for visualising simulation output
+  - **Qt 5.4** to provide rendering surface and other goodies (like resources embedded
     in executable, loading OpenGL extensions and context creation, ...)
   - **Boost.Compute**, which simplifies work with OpenCL API and provides some handy
     parallel algorithms (like sorting)
@@ -49,7 +47,7 @@ Program depends on:
 
 # Features
 
-  - simulation is done using Smoothed Particle Hydrodynamics algorithm
+  - simulation is done using Smoothed Particle Hydrodynamics
   - rendering is done using Screen Space Fluid Rendering with Curvature Flow
   - with proper hardware (in my case Radeon R9 280X, Intel Core i5 4690K, 8GB of RAM)
     and latest drivers (in my case Catalyst 15.7.1), the program is capable
