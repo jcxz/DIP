@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/skybox/clouds_negx.bmp</file>
+        <file>data/skybox/clouds_negy.bmp</file>
+        <file>data/skybox/clouds_negz.bmp</file>
+        <file>data/skybox/clouds_posx.bmp</file>
+        <file>data/skybox/clouds_posy.bmp</file>
+        <file>data/skybox/clouds_posz.bmp</file>
+        <file>data/skybox/debug_negx.png</file>
+        <file>data/skybox/debug_negy.png</file>
+        <file>data/skybox/debug_negz.png</file>
+        <file>data/skybox/debug_posx.png</file>
+        <file>data/skybox/debug_posy.png</file>
+        <file>data/skybox/debug_posz.png</file>
+        <file>data/skybox/debug_large_negx.png</file>
+        <file>data/skybox/debug_large_negy.png</file>
+        <file>data/skybox/debug_large_negz.png</file>
+        <file>data/skybox/debug_large_posx.png</file>
+        <file>data/skybox/debug_large_posy.png</file>
+        <file>data/skybox/debug_large_posz.png</file>
+        <file>data/skybox/forest_negx.jpg</file>
+        <file>data/skybox/forest_negy.jpg</file>
+        <file>data/skybox/forest_negz.jpg</file>
+        <file>data/skybox/forest_posx.jpg</file>
+        <file>data/skybox/forest_posy.jpg</file>
+        <file>data/skybox/forest_posz.jpg</file>
+        <file>data/skybox/palmtrees_negx.jpg</file>
+        <file>data/skybox/palmtrees_negy.jpg</file>
+        <file>data/skybox/palmtrees_negz.jpg</file>
+        <file>data/skybox/palmtrees_posx.jpg</file>
+        <file>data/skybox/palmtrees_posy.jpg</file>
+        <file>data/skybox/palmtrees_posz.jpg</file>
+        <file>data/voxel_meshes/bunny_hollow_64x64x64.raw</file>
+        <file>data/voxel_meshes/bunny_hollow_128x128x128.raw</file>
+        <file>data/voxel_meshes/bunny_hollow_256x256x256.raw</file>
+        <file>data/voxel_meshes/bunny_full_64x64x64.raw</file>
+        <file>data/voxel_meshes/bunny_full_128x128x128.raw</file>
+        <file>data/voxel_meshes/bunny_full_256x256x256.raw</file>
+        <file>data/voxel_meshes/armadillo_hollow_64x64x64.raw</file>
+        <file>data/voxel_meshes/armadillo_hollow_128x128x128.raw</file>
+        <file>data/voxel_meshes/armadillo_hollow_256x256x256.raw</file>
+        <file>data/voxel_meshes/armadillo_full_64x64x64.raw</file>
+        <file>data/voxel_meshes/armadillo_full_128x128x128.raw</file>
+        <file>data/voxel_meshes/armadillo_full_256x256x256.raw</file>
+    </qresource>
+</RCC>

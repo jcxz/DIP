@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- OpenCL programs -->
+        <file>src/core/sph_ocl_common.h</file>
+        <file>src/opencl/gen_rand_particles.cl</file>
+        <file>src/opencl/polar_spiral.cl</file>
+        <file>src/opencl/sph_params.cl</file>
+        <file>src/opencl/sph_naive.cl</file>
+        <file>src/opencl/sph_optimized.cl</file>
+        <file>src/opencl/sph_uniform_grid.cl</file>
+        <file>src/opencl/ray_cast_renderer.cl</file>
+        <!-- OpenGL shaders -->
+        <file>src/opengl/ray_cast_renderer_back_faces.frag</file>
+        <file>src/opengl/ray_cast_renderer.frag</file>
+        <file>src/opengl/ray_cast_renderer.vert</file>
+        <file>src/opengl/point_sprite_renderer.frag</file>
+        <file>src/opengl/point_sprite_renderer.vert</file>
+        <file>src/opengl/curvature_flow_renderer_thickness.frag</file>
+        <file>src/opengl/curvature_flow_renderer_depth.frag</file>
+        <file>src/opengl/curvature_flow_renderer_curvatureflow.frag</file>
+        <file>src/opengl/curvature_flow_renderer_compose.frag</file>
+        <file>src/opengl/curvature_flow_renderer_quad.vert</file>
+        <file>src/opengl/curvature_flow_renderer.vert</file>
+        <file>src/opengl/ps_bounding_volume.frag</file>
+        <file>src/opengl/ps_bounding_volume.vert</file>
+        <file>src/opengl/ps_particle_colors.frag</file>
+        <file>src/opengl/ps_particle_colors.vert</file>
+        <file>src/opengl/ps_uniform_color.frag</file>
+        <file>src/opengl/ps_uniform_color.vert</file>
+        <file>src/opengl/ps.frag</file>
+        <file>src/opengl/ps.vert</file>
+        <file>src/opengl/skybox.frag</file>
+        <file>src/opengl/skybox.vert</file>
+        <file>src/opengl/uniform_grid.frag</file>
+        <file>src/opengl/uniform_grid.vert</file>
+    </qresource>
+</RCC>
