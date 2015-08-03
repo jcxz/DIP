@@ -19,14 +19,14 @@ simulation using OpenCL and OpenGL.
   - Program execution can be tweaked by additional command line arguments:
 
       - `-particle-count <number-of-particles>`
-           determines the number of particles that will be used for simulation in mode 1  
+           determines the number of particles that will be used for simulation in mode 1.
            `<number-of-particles>` is an integer representing the number of particles
 
       - `-grid-size <dimensions>`
-           determines dimensions of the uniform grid that is used for neighbour search acceleration  
+           determines dimensions of the uniform grid that is used for neighbour search acceleration.
            `<dimensions>` is a string in format `WIDTHxHEIGHTxDEPTH`, where WIDTH, HEIGHT
            and DEPTH are integer numbers determining respectively the width, the height
-           and the depth of the specified uniform grid (these numbers **must** be powers of 2)
+           and the depth of the specified uniform grid (these numbers **must** be powers of 2).
            Another option is to write `-grid-size SIZE`, where again SIZE is an integer
            power of 2 determining the size of the uniform grid. In this case, the width,
            the height and the depth of the uniform grid are all set to SIZE.
