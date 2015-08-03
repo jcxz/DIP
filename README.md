@@ -56,3 +56,11 @@ Program depends on:
     of simulating over 1,000,000 particles at around 30-40 FPS (depending on how
     is the fluid spread across the domain) and over 4,000,000 particles at
     about 8-12 FPS. These numbers are including full-fledged visualization.
+    
+# Screenshots
+
+![Close Up splash](screenshots/big_splash.png)
+![Splash](screenshots/small_splash.png)
+![Calming down after splash](screenshots/after_splash.png)
+![Regular view](screenshots/top.png)
+![Bottom view of the splash](screenshots/bottom.png)
